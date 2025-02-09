@@ -11,7 +11,7 @@ export default function Home() {
               }}
           >
             <div className="bg-white bg-opacity-90 p-8 rounded-lg shadow-2xl text-center max-w-md w-full sm:w-auto m-4">
-              <h1 className="text-5xl font-extrabold text-gray-800 mb-2">INshein</h1>
+              <h1 className="text-5xl font-extrabold text-gray-800 mb-2">inSHEIN</h1>
               <h1 className="text-2xl font-extrabold text-gray-500 mb-6">Every style has a story</h1>
               <h1 className="text-3xl font-extrabold text-gray-800 mb-6">Coming Soon</h1>
               <p className="text-lg text-gray-600 mb-8">
